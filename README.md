@@ -1,3 +1,4 @@
+
 # Introvert vs Extrovert Personality Classification
 
 ## Project Overview
@@ -109,7 +110,7 @@ Kaggle Submission
 
 ## Kaggle Leaderboard
 
-<img width="1267" height="663" alt="Screenshot 2026-06-18 023756" src="https://github.com/user-attachments/assets/a0baa032-42ac-4c89-bed4-4e42577c4535" />
+<img width="1251" height="515" alt="leaderboard" src="https://github.com/user-attachments/assets/147e6d14-31b7-45e0-9662-c6dc7a3f8e13" />
 
 ## Key Learning Outcomes
 
